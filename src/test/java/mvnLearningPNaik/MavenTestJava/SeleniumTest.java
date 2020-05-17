@@ -33,4 +33,10 @@ public class SeleniumTest {
 	{
 		System.out.println("Selenium_DemoGitThree");
 	}
+	
+	@Test
+	public void Selenium_DemoGitFour()
+	{
+		System.out.println("Selenium_DemoGitFor from original user");
+	}
 }
