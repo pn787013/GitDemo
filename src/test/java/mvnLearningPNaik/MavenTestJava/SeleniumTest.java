@@ -45,4 +45,9 @@ public class SeleniumTest {
 	{
 		System.out.println("Selenium_DemoGitFor develop branch");
 	}
+	@Test
+	public void Selenium_DemoGitSix()
+	{
+		System.out.println("Selenium_Demo_push new change to develop branch");
+	}
 }
